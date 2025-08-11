@@ -1,2 +1,2 @@
-# Kaggle-Competition-notebooks
-repo for all kaggle competitions
+## Kaggle-Competition-Agri Pre
+### 1560/2648 rank 
